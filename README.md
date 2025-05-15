@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HumbertoMachado7/HumbertoMachado7/main/your-profile-image.jpg" alt="Humberto Machado" style="width:200px; border-radius:50%;"> <!-- OPTIONAL: You can place your profile picture here again if you want, but it might be redundant with the main GitHub avatar. Remove this line if you prefer -->
+  <!-- La imagen de perfil principal ya se muestra en el avatar de GitHub. Esta línea opcional se eliminó para evitar redundancia o errores si el archivo no existe. -->
   <h1>Humberto Machado | Full Stack Developer</h1>
   <p>Full Stack Developer Seeking Remote Opportunities in the USA 🇺🇸</p>
 </div>
@@ -33,7 +33,7 @@ This section highlights key projects showcasing my full-stack capabilities. *Cli
 
 *   [**[Project Name 1]:** Brief description of the project's purpose.]([Link to Project Repo 1])
 *   [**[Project Name 2]:** Brief description of the project's purpose.]([Link to Project Repo 2])
-*   *(... Add more project links here. Make sure each project has its own well-documented repository! ...)*
+*   *(... Add more projects here as you highlight them. Make sure each project has its own well-documented repository! ...)*
 
 ---
 
@@ -64,10 +64,7 @@ Here are some of the technologies and concepts I work with:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge"/>
-  <!-- Conceptual Skills (Often harder to badge, but can be mentioned in text or linked) -->
-  <!-- For concepts like Data Structures, Algorithms, OOP, FP, RESTful APIs, it's often best to
-       demonstrate them through projects or have links to repos specifically for exercises.
-       Adding badges for these can clutter. We'll keep them primarily in the "About Me" text. -->
+  <!-- Conceptual Skills -->
 </p>
 
 ---
@@ -76,7 +73,7 @@ Here are some of the technologies and concepts I work with:
 
 My diverse background in Systems Analysis and Business Administration complements my technical skills, providing a strategic perspective on software development. This section links to repositories where I showcase my foundational knowledge and ongoing learning, reinforcing the "book" structure.
 
-*   [**JavaScript Fundamentals:** Explore my exercises and understanding of core JS concepts (based on your initial image).]([Link to JS Fundamentals Repo])
+*   [**JavaScript Fundamentals:** Explore my exercises and understanding of core JS concepts.]([Link to JS Fundamentals Repo])
 *   [**React Ecosystem Examples:** Code focusing on React, Redux, Next.js, etc.]([Link to React/Frontend Repo])
 *   [**Node.js & API Development:** Examples and exercises for backend development.]([Link to Node.js/Backend Repo])
 *   *(... Add more links to repositories covering specific technologies, certifications, or learning paths ...)*
@@ -110,7 +107,7 @@ Let's connect! I'm interested in discussing technology, collaborations, and remo
    <!-- Example for Henry (if public profile) -->
    <!--
    <a href="[URL de tu Perfil Henry]" target="_blank">
-     <img src="https://img.shields.io/badge/Henry-F26137?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMgMEgzdjM2SDMwVjI3SDI3VjI0SDI0VjIxSDIxVjE4SDI0VjE1SDI3VjEySDMwVjBIN1Y5SDMwVjE4SDI3VjIxaDIuOTc3N0wzMCAyMUgzMFYzMEgzM1YzNkgzVjI3SDZWMTlIOC44ODg4OXYzSDMuODg4ODhWMzZIMloiIGZpbGw9IiNGRjYxMzciLz4KPC9zdmc+Cg==" alt="Henry Badge"/>
+     <img src="https://img.shields.io/badge/Henry-F26137?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMud29yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0zIDBIN3YzNkgzMFYyN0gyN1YyNEgyNFYyMUgyMVYxOEgyNFYxNUgyN1YxMkgzMFYwSDdWOEgzMFYxOEgyN1YyMWgyLjk3NzdbMzAgMjFINzBWMzBIMzNWMzZIM1YyN0g2VjE5SDguODg4ODl2M0gzLjg4ODg4VjM2SDJaIiBmaWxsPSIjRkY2MTM3Ii8+CgI8L3N2Zz4K" alt="Henry Badge"/>
    </a>
    -->
 </p>
