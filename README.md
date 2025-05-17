@@ -73,7 +73,7 @@ Here are some of the technologies and concepts I work with:
 
 My diverse background in Systems Analysis and Business Administration complements my technical skills, providing a strategic perspective on software development. This section links to repositories where I showcase my foundational knowledge and ongoing learning, reinforcing the "book" structure.
 
-*   [**JavaScript Fundamentals:** Explore my exercises and understanding of core JS concepts.](https://github.com/HumbertoMachado7/javascript-fundamentals-exercises)
+*   [**JavaScript Fundamentals:** Explore my exercises and understanding of core JS concepts.](https://github.com/HumbertoMachado7/javascript-fundamentals)
 *   [**Git & GitHub Mastery:** Comprehensive notes and examples on version control.](https://github.com/HumbertoMachado7/git-github-mastery)
 *   [**React Ecosystem Examples:** Code focusing on React, Redux, Next.js, etc.]([Link to React/Frontend Repo])
 *   [**Node.js & API Development:** Examples and exercises for backend development.]([Link to Node.js/Backend Repo])
