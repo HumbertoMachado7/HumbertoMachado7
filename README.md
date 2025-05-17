@@ -73,10 +73,11 @@ Here are some of the technologies and concepts I work with:
 
 My diverse background in Systems Analysis and Business Administration complements my technical skills, providing a strategic perspective on software development. This section links to repositories where I showcase my foundational knowledge and ongoing learning, reinforcing the "book" structure.
 
-*   [**JavaScript Fundamentals:** Explore my exercises and understanding of core JS concepts.]([Link to JS Fundamentals Repo])
+*   [**JavaScript Fundamentals:** Explore my exercises and understanding of core JS concepts.](https://github.com/HumbertoMachado7/javascript-fundamentals-exercises)
+*   [**Git & GitHub Mastery:** Comprehensive notes and examples on version control.](https://github.com/HumbertoMachado7/git-github-mastery)
 *   [**React Ecosystem Examples:** Code focusing on React, Redux, Next.js, etc.]([Link to React/Frontend Repo])
 *   [**Node.js & API Development:** Examples and exercises for backend development.]([Link to Node.js/Backend Repo])
-*   *(... Add more links to repositories covering specific technologies, certifications, or learning paths ...)*
+*   *(... Add more links to repositories covering specific technologies, certifications, or learning paths as you create them ...)*
 
 ---
 
@@ -107,7 +108,7 @@ Let's connect! I'm interested in discussing technology, collaborations, and remo
    <!-- Example for Henry (if public profile) -->
    <!--
    <a href="[URL de tu Perfil Henry]" target="_blank">
-     <img src="https://img.shields.io/badge/Henry-F26137?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMud29yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0zIDBIN3YzNkgzMFYyN0gyN1YyNEgyNFYyMUgyMVYxOEgyNFYxNUgyN1YxMkgzMFYwSDdWOEgzMFYxOEgyN1YyMWgyLjk3NzdbMzAgMjFINzBWMzBIMzNWMzZIM1YyN0g2VjE5SDguODg4ODl2M0gzLjg4ODg4VjM2SDJaIiBmaWxsPSIjRkY2MTM3Ii8+CgI8L3N2Zz4K" alt="Henry Badge"/>
+     <img src="https://img.shields.io/badge/Henry-F26137?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMgMEgzdjM2SDMwVjI3SDI3VjI0SDI0VjIxSDIxVjE4SDI0VjE1SDI3VjEySDMwVjBIN1Y5SDMwVjE4SDI3VjIxhDIuOTc3N0wzMCAyMUgzMFYzMEgzM1YzNkgzVjI3SDZWMTlIOC44ODg4OXYzSDMuODg4ODhWMzZIMloiIGZpbGw9IiNGRjYxMzciLz4KPC9zdmc+Cg==" alt="Henry Badge"/>
    </a>
    -->
 </p>
