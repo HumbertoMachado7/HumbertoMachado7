@@ -75,6 +75,7 @@ My diverse background in Systems Analysis and Business Administration complement
 
 *   [**Git & GitHub Mastery:** Comprehensive notes and examples on version control.](https://github.com/HumbertoMachado7/git-github-mastery)
 *   [**JavaScript Fundamentals:** Explore my exercises and understanding of core JS concepts.](https://github.com/HumbertoMachado7/javascript-fundamentals)
+*   [**JavaScript Advanced Concepts:** Explore advanced JavaScript concepts and exercises.](https://github.com/HumbertoMachado7/javascript-advanced-concepts)
 *   [**React Ecosystem Examples:** Code focusing on React, Redux, Next.js, etc.]([Link to React/Frontend Repo])
 *   [**Node.js & API Development:** Examples and exercises for backend development.]([Link to Node.js/Backend Repo])
 *   *(... Add more links to repositories covering specific technologies, certifications, or learning paths as you create them ...)*
@@ -116,5 +117,5 @@ Let's connect! I'm interested in discussing technology, collaborations, and remo
 ---
 
 <!--
-Keywords for Searchability: Full Stack Developer, React, Node.js, JavaScript, SQL, Remote Jobs, USA, Software Engineer, Web Development, Bootcamp Graduate, React Hooks, Express.js, Sequelize, MySQL, Frontend, Backend, Developer Remoto, Estados Unidos, Systems Analyst, Business Administration, Leadership, Management, Git, GitHub, Tailwind CSS, Redux, Next.js, React Native, Vite, Astro, Data Structures, Algorithms, OOP, FP, RESTful APIs, C1 English, US Remote
+Keywords: Full Stack Developer, React, Node.js, JavaScript, SQL, Remote Jobs, USA, Software Engineer, Web Development, Bootcamp Graduate, React Hooks, Express.js, Sequelize, MySQL, Frontend, Backend, Developer Remoto, Estados Unidos, Systems Analyst, Business Administration, Leadership, Management, Git, GitHub, Tailwind CSS, Redux, Next.js, React Native, Vite, Astro, Data Structures, Algorithms, OOP, FP, RESTful APIs, C1 English, US Remote, JavaScript Advanced, Advanced JS
 -->
