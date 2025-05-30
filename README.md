@@ -43,6 +43,8 @@ Here are some of the technologies and concepts I work with:
 
 <p align="center">
   <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
@@ -55,16 +57,16 @@ Here are some of the technologies and concepts I work with:
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/> <!-- Using MySQL badge as a general SQL representation -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"/> 
    <!-- Databases & ORMs -->
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <!-- Tools & Concepts -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge"/>
-  <!-- Conceptual Skills -->
+  <!-- Conceptual Skills - (Note: Concepts are often better described in "About Me" or project details than with badges) -->
 </p>
 
 ---
@@ -93,13 +95,10 @@ Let's connect! I'm interested in discussing technology, collaborations, and remo
   <a href="mailto:humbertomachado777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-   <!-- Optional: Add badges for Portfolio, Platzi, Henry if you have public URLs -->
-   <!-- Example for Portfolio (if you create one) -->
-   <!--
-   <a href="[URL de tu Portfolio]" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF7213?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+   <a href="https://humbertomachado.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF7213?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/> <!-- Using About.me logo as a generic portfolio icon -->
    </a>
-   -->
+   <!-- Optional: Add badges for Platzi, Henry if you have public URLs -->
    <!-- Example for Platzi (if public profile) -->
    <!--
    <a href="[URL de tu Perfil Platzi]" target="_blank">
@@ -109,7 +108,7 @@ Let's connect! I'm interested in discussing technology, collaborations, and remo
    <!-- Example for Henry (if public profile) -->
    <!--
    <a href="[URL de tu Perfil Henry]" target="_blank">
-     <img src="https://img.shields.io/badge/Henry-F26137?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMgMEgzdjM2SDMwVjI3SDI3VjI0SDI0VjIxSDIxVjE4SDI0VjE1SDI3VjEySDMwVjBIN1Y5SDMwVjE4SDI3VjIxhDIuOTc3N0wzMCAyMUgzMFYzMEgzM1YzNkgzVjI3SDZWMTlIOC44ODg4OXYzSDMuODg4ODhWMzZIMloiIGZpbGw9IiNGRjYxMzciLz4KPC9zdmc+Cg==" alt="Henry Badge"/>
+     <img src="https://img.shields.io/badge/Henry-F26137?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMgMEgzdjM2SDMwVjI3SDI3VjI0SDI0VjIxSDIxVjE4SDI0VjE1SDI3VjEySDMwVjBIN1Y5SDMwVjE4SDI3VjIxhDIuOTc3N0wzMCAyMUgzMFYzMEgzM0YzNkgzVjI3SDZWMTlIOC44ODg4OXYzSDMuODg4ODhWMzZIMloiIGZpbGw9IiNGRjYxMzciLz4KPC9zdmc+Cg==" alt="Henry Badge"/>
    </a>
    -->
 </p>
